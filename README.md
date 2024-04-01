@@ -1,3 +1,2 @@
 # Collaborative-Project
-This is a collaborative projects in which we (Avinash,Satyam and Arpit) collaborated for making the Investors Page of masai.
-We used HTML and CSS here.
+This is a collaborative project in which Avinash, Satyam, and Arpit collaborated to create the Investors Page of Masai using HTML and CSS.
