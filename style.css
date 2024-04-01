@@ -1,0 +1,19 @@
+body {
+  background: #f3f6f8;
+  font-family: sans-serif;
+}
+.container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  width: 90%;
+  margin: 50px auto;
+  max-width: 2000px;
+}
+.container > div {
+  background: white;
+  /* padding: 10px; */
+  border-radius: 12px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
