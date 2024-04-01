@@ -17,3 +17,17 @@ body {
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
   text-align: center;
 }
+
+.container > div > img:nth-child(1) {
+  border-top-right-radius: 12px;
+  border-top-left-radius: 12px;
+  width: 100%;
+}
+.container > div > img:last-child {
+  width: 45%;
+}
+.container > div > p:nth-child(3) {
+  font-size: 14px;
+  color: #858383;
+  margin: 0px;
+}
